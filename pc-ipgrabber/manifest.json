@@ -1,0 +1,7 @@
+{
+    "name": "ip grabber",
+    "version": "4.2.0",
+    "license": "GNU AGPLv3",
+    "author": "Waves",
+    "description": "Grabs peoples IP address through a custom exploit."
+}
