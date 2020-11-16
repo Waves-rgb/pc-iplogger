@@ -1,6 +1,11 @@
-# Powercord ip logger plugin
+# Powercord IP logger
 IP logger plugin for powercord
+
 I wrote a custom exploit to grab people's IPs through discord.
+
+# Usage
+
+Type `.ipgrab` and it will grab the last message's author's IP
 
 # Installation
 
